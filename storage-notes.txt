@@ -1,0 +1,3 @@
+Storage is where we keep data so it doesn't get lost when the power turns off.
+Examples are Hard Drives (HDD), Solid State Drives (SSD), and cloud databases like AWS S3.
+The most important things here are capacity (how much it holds) and read/write speed (how fast we can get the data).
