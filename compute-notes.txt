@@ -1,0 +1,3 @@
+Compute handles the actual processing work. 
+It is like the brain of the computer (CPUs and GPUs).
+The main things to care about are processing speed and the number of cores.
