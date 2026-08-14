@@ -1,0 +1,3 @@
+Network is how computers talk to each other and share information.
+It moves data back and forth using cables, routers, and Wi-Fi.
+The main things to watch out for are bandwidth (how much data can fit in the "pipe" at once) and latency (how long it takes to travel from point A to point B).
